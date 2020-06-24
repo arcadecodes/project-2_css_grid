@@ -1,5 +1,5 @@
 # Project 2 - CSS Grid 5
-This project was part of [@Andrei Negoi's](https://github.com/aneagoie) [The Complete Web Developer in 202: Zero to Mastery] (https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course. 
+This project was part of [@Andrei Negoi's](https://github.com/aneagoie) [The Complete Web Developer in 202: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course. 
 
 It also constitutes part of my [#100dayscsschallenge repo](https://github.com/arcadecodes/pure_css_projects_landing) with the actual webite hosted [here](https://arcadecodes.github.io/pure_css_projects_landing/). 
 
