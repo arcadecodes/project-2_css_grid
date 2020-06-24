@@ -4,7 +4,7 @@ This project was part of [@Andrei Negoi's](https://github.com/aneagoie) [The Com
 It also constitutes part of my [#100dayscsschallenge repo](https://github.com/arcadecodes/pure_css_projects_landing) with the actual webite hosted [here](https://arcadecodes.github.io/pure_css_projects_landing/). 
 
 ## Project Preview 
-![](flexbox.gif.sb-d6cc64ee-01kpfg)
+![](flexbox.gif)
 
 ## CSS Grid 
 CSS Grid layout is a technique that allows for creating complex remosive design layouts. It includes rows and columns making it a 2D system. 
